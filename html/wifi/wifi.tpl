@@ -80,8 +80,8 @@
   </script>
 </head>
 <body>
-  <button onclick="location.href='/'">Back</button>
   <div id="main">
+    <button onclick="location.href='/'">Back</button>
     <div style="margin-top: 30px; padding: 0px 10px; border: 1px solid;">
       <h4>WiFi Mode</h4>
       <p>

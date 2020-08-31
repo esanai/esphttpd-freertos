@@ -2,3 +2,5 @@ sdkconfig
 *.bak
 sdkconfig.old
 build/
+tags
+*.sw*

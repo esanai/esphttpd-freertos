@@ -1,8 +1,12 @@
-<html><head><title>Test</title>
+<html>
+<head>
+<title>Test</title>
 <link rel="stylesheet" type="text/css" href="./style.css">
 </head>
+
 <body>
 <div id="main">
+<button onclick="location.href='/'">Back</button>
 <h1>The LED</h1>
 <p>
 If there's a LED connected to GPIO%ledgpio%, it's now %ledstate%. You can change that using the buttons below.
